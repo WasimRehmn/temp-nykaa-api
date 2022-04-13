@@ -1,0 +1,14 @@
+{
+    "name": "nykaa-data",
+    "version": "0.1.0",
+    "description": "nykaa data",
+    "main": "server.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Wasim Rehman",
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
