@@ -605,7 +605,7 @@
       "quan": 1
     }
   ],
-  "One_Item": {
+  "One_Item": [{
     "card_title": "Philips Selfie Straightener (HP8302/06)",
     "title": "Philips Selfie Straightener (HP8302/06)",
     "rating": "4.2",
@@ -622,9 +622,9 @@
     "sub_category": "Straighteners",
     "description": "Straighten and style your hair with this easy to use Philips HP8302/00 Selfie Straightener. With silkpro care technology and advanced keratin ceramic coating, the plates of this straighter are smoother than silk, resulting in less heat exposure and minimal friction. 210 degree C professional styling temperature gives you that perfect look like you've just come from the salon.",
     "how_to_use": "Warranty: 2 years Philips India warranty from the date of purchase",
-    "id": 1,
+    "id": 100,
     "quan": 1
-  },
+  }],
   "topbrands": [
     {
       "id": 1,
